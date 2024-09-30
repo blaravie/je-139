@@ -1,5 +1,4 @@
 ## Items to note:  
-
 <br>
  
 1. master_device_wiring_test_v4 (throttle controller) needs schematics updated, code updated
